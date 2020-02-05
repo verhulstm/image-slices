@@ -1,0 +1,19 @@
+spec:
+  image:
+    name: "image.png"
+  regions:
+     - name: "1.png"
+       top: 186
+       left: 192
+       w: 200
+       h: 132
+     - name: "2.png"
+       top: 426
+       left: 192
+       w: 200
+       h: 132
+     - name: "3.png"
+       top: 666
+       left: 192
+       w: 200
+       h: 132
